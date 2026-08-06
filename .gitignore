@@ -1,0 +1,6 @@
+*.safetensors
+*.bin
+*.pt
+*.onnx
+**/model_files/
+**/model_files/*

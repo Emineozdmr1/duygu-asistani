@@ -1,0 +1,8 @@
+.env
+*.env
+venv/
+__pycache__/
+*.py[cod]
+.cache/
+model_files/
+kullanici_oylari.csv
